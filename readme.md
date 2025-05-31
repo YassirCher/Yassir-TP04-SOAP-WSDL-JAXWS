@@ -200,6 +200,7 @@ Pour exécuter ce client, assurez-vous que le serveur JAX-WS (`ServeurJWS`) est 
 
 ![image](https://github.com/user-attachments/assets/2ea165e9-4c92-444b-b2f7-f61c35324a23)
 
+---
+## 6. Conclusion:
 
-
-
+Ce rapport a détaillé la création, le déploiement et le test d’un web service SOAP utilisant Java et JAX-WS. La mise en œuvre de la classe Compte et du service BanqueService a permis de définir les opérations clés, tandis que le déploiement via Endpoint.publish a rendu le service accessible. L’analyse du WSDL a révélé la structure du contrat du service, et les tests effectués avec SoapUI ont validé son bon fonctionnement. Enfin, la génération d’un client SOAP à partir du WSDL a permis d’interagir efficacement avec le service. Ce processus illustre une approche complète pour développer, déployer et consommer un web service SOAP, offrant une base solide pour des applications distribuées fiables.
